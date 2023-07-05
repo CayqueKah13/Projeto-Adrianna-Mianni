@@ -5,12 +5,12 @@
 *   Firas ODEH
 */
 
-/*@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);*/
-/*@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);*/
-
+    /*@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);*/
+    /*@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);*/
+    @import url('https://fonts.cdnfonts.com/css/serenata-vantages');
 /* Base */
 
-    body { font-family: 'Open Sans',sans-serif !important;
+    body { font-family: 'Serenata Vantages', sans-serif !important;
         /* Support for all WebKit browsers. */
         -webkit-font-smoothing: antialiased;
         /* Support for Safari and Chrome. */
@@ -24,7 +24,7 @@
         -webkit-text-size-adjust: 100%;
     }
 
-    .secondary-font { font-family: 'Montserrat', sans-serif; }
+    .secondary-font { font-family: 'Serenata Vantages Light', sans-serif; }
     a:hover, a:focus { text-decoration: none; }
     .pix-full-width { width:100%; }
 
@@ -43,6 +43,7 @@
     .big-text-20 { font-size: 20px;line-height: 32px; }
     .big-text { font-size: 16px;line-height: 26px; }
     .small-text { font-size: 14px; }
+    .small-text2 { font-size: 18px; }
     .extra-small-text { font-size: 12px; }
 
     .pix-sm-lineheight { line-height: 58px; }
@@ -227,6 +228,7 @@
     .pix-padding-top-80 { padding-top: 80px; }
     .pix-padding-top-100 { padding-top: 100px; }
     .pix-padding-top-120 { padding-top: 120px; }
+    .pix-padding-top-130 { padding-top: 130px; }
     .pix-padding-top-150 { padding-top: 150px; }
     .pix-padding-bottom-10 { padding-bottom: 10px; }
     .pix-padding-bottom-15 { padding-bottom: 15px; }
@@ -344,16 +346,20 @@
     .btn { border-radius: 3px;padding: 8px 18px;border: 0px; }
     .btn.btn-xl { padding: 18px 44px;font-size: 16px; }
     .btn.pix-line.btn-xl { padding-top: 16px;padding-bottom: 16px; }
+    .btn.btn-lglt { padding: 7px 35px; }
+    .btn.btn-lglt2 { padding: 5px 35px; }
     .btn.btn-lg { padding: 14px 30px; }
     .btn.btn-md { padding: 12px 26px; }
     .btn.btn-sm { padding: 6px 14px; }
     .btn.btn-xs { padding: 2px 10px; }
+    .btn.pix-margin-left-80 { margin-left: -80px; }
+    .btn.pix-margin-right-80 { margin-right: -80px; }
     .btn:not(.pix-line):not(.btn-flat):not(.btn-link):hover { box-shadow: 0 0 3rem 3rem rgba(0,0,0,0.08) inset; }
     .btn.btn-flat:hover { box-shadow: 0 -3px 0px 0px rgba(0,0,0,0.3) inset, 0 0 3rem 3rem rgba(0,0,0,0.08) inset; }
     .btn.pix-line:hover { }
     .btn.pix-white:hover { color: #fff; }
 
-    .btn.pix-line { border:3px solid; }
+    .btn.pix-line { border:3px solid #b7d0e1; }
     .btn-round-lg, form.form-round-lg .form-control { border-radius: 30px; }
     .btn-round-xl { border-radius: 40px; }
 
@@ -676,15 +682,28 @@
         -ms-transition:     all 0.2s ease-in-out;
         transition:         all 0.2s ease-in-out;
     }
-    .pix-header-nav > li > a {
-        font-weight: bold;
-     }
-    .pix_nav_menu .navbar-nav > li > a:hover,
-    .pix_nav_menu .navbar-nav > li > a:focus { background: rgba(0,0,0,0.03);border-radius: 3px; }
-    .pix_scroll_menu .navbar-nav > li > a:hover,
-    .pix_scroll_menu .navbar-nav > li > a:focus { background: rgba(0,0,0,0.03);border-radius: 3px; }
-    .dropdown-menu { border-radius: 2px;border:0px;box-shadow: 0 1px 1px 1px rgba(0,0,0,0.05);padding:0px; }
-    .dropdown-menu li a { padding-top: 10px !important;padding-bottom: 10px; }
+  /* Style the navbar links */
+  .navbar-nav a {
+    font-weight: normal; /* Set the default font weight */
+  }
+  
+  /* Apply a bold font weight on hover */
+  .navbar-nav a:hover {
+    font-weight: bold;
+  }
+  
+  
+  here please: 
+  
+  .pix-header-nav > li > a {
+          font-weight: bold;
+       }
+      .pix_nav_menu .navbar-nav > li > a:hover,
+      .pix_nav_menu .navbar-nav > li > a:focus { background: rgba(0,0,0,0.03);border-radius: 3px; }
+      .pix_scroll_menu .navbar-nav > li > a:hover,
+      .pix_scroll_menu .navbar-nav > li > a:focus { background: rgba(0,0,0,0.03);border-radius: 3px; }
+      .dropdown-menu { border-radius: 2px;border:0px;box-shadow: 0 1px 1px 1px rgba(0,0,0,0.05);padding:0px; }
+      .dropdown-menu li a { padding-top: 10px !important;padding-bottom: 10px; }
 
     .fancybox-container { z-index: 99999 !important; }
     .pix_scroll_menu { z-index: 99998 !important; }

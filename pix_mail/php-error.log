@@ -1,0 +1,20 @@
+[14-Mar-2023 12:32:46 America/Sao_Paulo] PHP Notice:  Undefined index: PT-br in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 12:32:46 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 12:37:21 America/Sao_Paulo] PHP Notice:  Undefined index: PT-br in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 12:37:21 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 12:42:28 America/Sao_Paulo] PHP Notice:  Undefined index: en in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 12:42:28 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 12:47:34 America/Sao_Paulo] PHP Notice:  Undefined index: en in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 12:47:34 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 13:20:47 America/Sao_Paulo] PHP Notice:  Undefined index: en in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 13:20:47 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 13:33:15 America/Sao_Paulo] PHP Notice:  Undefined index: en in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 13:33:15 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 13:37:18 America/Sao_Paulo] PHP Notice:  Undefined index: en in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 13:37:18 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 13:38:37 America/Sao_Paulo] PHP Notice:  Undefined index: en in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[14-Mar-2023 13:38:37 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[15-Mar-2023 08:55:08 America/Sao_Paulo] PHP Notice:  Undefined index: en in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[15-Mar-2023 08:55:08 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/amianni/public_html/pix_mail/new_contact.php on line 169
+[20-Mar-2023 09:56:13 America/Sao_Paulo] PHP Notice:  Undefined index: en in /home/amianni/public_html/pix_mail/new_contact.php on line 95
+[20-Mar-2023 09:56:13 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/amianni/public_html/pix_mail/new_contact.php on line 95
