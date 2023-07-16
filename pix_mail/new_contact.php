@@ -7,7 +7,7 @@ ini_set("error_log", dirname(__FILE__) . "/php-error.log");
 
 if($_POST)
 {
-	$language = "EN";
+	$language = "pt-BR";
 	include("config.php");
 	include("messages.php");
 	//-----------------------------------------------------------------------------------------
